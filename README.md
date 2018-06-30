@@ -1,2 +1,3 @@
 # hello-world
-My hello world repository
+I am joining the largest community of developers.
+I cannot be more excited
